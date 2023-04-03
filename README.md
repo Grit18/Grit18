@@ -2,30 +2,30 @@
 
 ## Education
 
-**Tufts University**, Boston, United States  
+**Tufts University** 
 - Master of Science in Data Analytics, Spring 2024
 
-**Tel Aviv University**, Tel Aviv-Yafo, Israel  
+**Tel Aviv University** 
 - Master of Business Administration — Cum Laude , 2021
 
-**Lead University**, San José, Costa Rica  
+**Lead University** 
 - Master of Arts, Trade and International Business — Magna Cum Laude, 2020
 
-**Universidad Veritas**, San José, Costa Rica  
+**Universidad Veritas**
 - Bachelor of Arts, Architecture — Summa Cum Laude & Dissertation Award, 2018
 
 ## Professional Experience
 
-**IBM**, Strategy Consultant — Remote  
+**IBM**, Strategy Consultant  
 *February 2022-January 2023*
 
-**Powtoon—Digital Communication Platform**, Executive Operations Specialist — Tel Aviv, Israel  
+**Powtoon—Digital Communication Platform**, Executive Operations Specialist  
 *March 2021-January 2022*
 
-**BDO Corporate Strategy Consulting**, Business Analyst, MBA Intern — Tel Aviv, Israel  
+**BDO Corporate Strategy Consulting**, Business Analyst, MBA Intern  
 *January 2021 – March 2021*
 
-**Gensler**, Project Manager — San Jose, Costa Rica  
+**Gensler**, Project Manager 
 *October 2016- August 2020*
 
 ## Leadership and Awards
