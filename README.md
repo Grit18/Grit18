@@ -1,5 +1,6 @@
 ## Welcome to my page! 
 
+
 I'm Arie, Data Scientist, currently living in Cambridge, US  ![US Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png) .
 
 #### Things I code with
@@ -19,6 +20,6 @@ I'm Arie, Data Scientist, currently living in Cambridge, US  ![US Flag](https://
 
 #### Where to find me
 
-[![GitHub Logo](/images/github_logo.png)](https://github.com/arieitz)
-[![LinkedIn Logo](/images/linkedin_logo.png)](https://www.linkedin.com/in/yourusername)
-[![Medium Logo](/images/medium_logo.png)](https://medium.com/@yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://yourmediumusername.medium.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yourusername)
