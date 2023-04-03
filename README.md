@@ -22,10 +22,6 @@ I'm Arie, Data Scientist, currently living in Cambridge, US  ![US Flag](https://
 
 - [Unlocking Business Insights and Improving Operations through Data Science and Predictive Analytics](https://medium.com/@arieitz/unlocking-business-insights-and-improving-operations-through-data-science-and-predictive-analytics-16c9c2a3c16a)
 
-- [Link Text](URL)
-- [Link Text](URL)
-- [Link Text](URL)
-
 
 ### Where to find me
 
