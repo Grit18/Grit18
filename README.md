@@ -29,6 +29,6 @@ I'm Arie, Data Scientist, currently living in Cambridge, US  ![US Flag](https://
 
 ### Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/arie-i-85547b200/))
 [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@arieitz)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/arieitz)
